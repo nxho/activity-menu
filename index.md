@@ -18,6 +18,7 @@
 # todos
 - Find more therapists
 - sign up for toastmasters
+- sign up for singing class
 - Class pass classes
 - Garden sign up
 - give resume to bar
