@@ -1,3 +1,12 @@
+# dailies
+- budget
+- pt exercises
+- electric guitar
+- Handstands
+- non-fiction reading
+	- history
+	- cooking
+- practice accents (aussie, british)
 
 # projects
 - Skylight plants
@@ -7,18 +16,14 @@
 - cookbook club/discord community
 
 # hobbies
-- non-fiction reading
-	- history
-	- cooking
-- practice electric guitar
 - woodworking
-- practice accents (aussie, british)
-- handstand practice
+
 
 # todos
 - Find more therapists
 - sign up for toastmasters
 - sign up for singing class
+- Sign up for woodworking
 - Class pass classes
 - ~~Garden sign up~~
 - give resume to bar
