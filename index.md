@@ -14,10 +14,9 @@
 - curate reddit feed/tiktok/youtube recs
 	- goal is to be in the know about news and learning shit
 - cookbook club/discord community
-
-# hobbies
-- woodworking
-
+- cook fave dishes
+	- stir-fried pea shoots (dou miao)
+	- carrot cake
 
 # todos
 - Find more therapists
