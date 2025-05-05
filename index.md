@@ -4,12 +4,13 @@
 - electric guitar
 - Handstands
 - non-fiction reading
-	- history
+    - history
 	- cooking
 - practice accents (aussie, british)
 
 # projects
 - Skylight plants
+    - 
 - hacks hacks hacks
 - curate reddit feed/tiktok/youtube recs
 	- goal is to be in the know about news and learning shit
@@ -20,6 +21,7 @@
 
 # todos
 - Find more therapists
+- call optometrist about blurry left contacts
 - sign up for toastmasters
 - sign up for singing class
 - Sign up for woodworking
