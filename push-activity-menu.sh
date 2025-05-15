@@ -1,6 +1,6 @@
 #! /usr/bin/env bash
 
-username="nathanielho"
+username="nath"
 src="/Users/${username}/Documents/personal"
 src_filename="Activity Menu.md"
 dst="/Users/${username}/Documents/activity-menu"
