@@ -1,8 +1,9 @@
 #! /usr/bin/env bash
 
-src="/Users/nathanielho/Documents/personal"
+username="nathanielho"
+src="/Users/${username}/Documents/personal"
 src_filename="Activity Menu.md"
-dst="/Users/nathanielho/Documents/activity-menu"
+dst="/Users/${username}/Documents/activity-menu"
 dst_filename="index.md"
 
 # Exit if files are identical
